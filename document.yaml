@@ -1,0 +1,14 @@
+project:
+    name: Project Name
+    
+content:
+    - source: intro.md
+    - source: usecases.md
+
+theme:
+    headings:
+        font-family: Open Sans
+        color: "#000000"
+    text:
+        font-family: Open Sans
+        color: "#000000"
