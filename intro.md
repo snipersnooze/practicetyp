@@ -1,6 +1,6 @@
-# Level 1
+Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed hendrerit urna eget nunc finibus mattis. Curabitur pharetra vel mauris id lobortis. Vivamus ut ultrices arcu. Nunc eleifend nisl ac tortor tristique, non sollicitudin elit euismod. Phasellus non consectetur velit. Aenean ac dolor id augue pharetra consequat. Vestibulum non augue in sem euismod luctus sed id elit. Maecenas venenatis ligula metus, in ultricies metus fermentum non. Maecenas porttitor condimentum fermentum. Aliquam ac egestas risus, non vehicula mauris. Nam commodo non odio eget pellentesque. Phasellus placerat consequat dignissim. Quisque lobortis accumsan magna, ut ullamcorper libero. Nam urna odio, auctor et dapibus eu, mattis id arcu.
+a)Our group is called Uncoded. We consist of 4 talented software developers who are going to create software that involves managing and facilitating small institutions access to curricula that are affiliated with Hyperion distance learning. 
 
 ## Level 2
 Cras non odio non sapien vehicula vulputate. Nulla facilisi. Pellentesque vel ante dui. Fusce et ullamcorper tortor. Aenean sed massa eu ipsum consequat dignissim. Nam tempor erat non consectetur aliquam. Duis id scelerisque sem, id molestie odio. Proin dapibus ipsum vel consectetur accumsan.
